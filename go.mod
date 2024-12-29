@@ -1,4 +1,4 @@
-module github.com/DonovanKelly/sugar-n-spice/v1
+module github.com/DonovanKelly/sugar-n-spice
 
 go 1.23.0
 
